@@ -1,0 +1,88 @@
+nav{
+    color: whitesmoke;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+head{
+    text-align: center;
+}
+a{
+    color: mintcream;
+    border: solid rgb(0, 0, 0);
+    background-color: slategray;
+    padding: 3px 20px;
+    font-family: cursive;
+    font-size: large;
+}
+.inactiveLink {
+    pointer-events: none;
+    cursor: default;
+ }
+ .picturepage{
+    width: 300px;
+    height: 400px;
+    margin-left: 10px;
+    border: solid black;
+    border-radius: 10px;
+    border-width: 10px;
+    margin-top: 15px;
+ }
+ .maincontent{
+    text-align: center;
+    border: solid black;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    background-color: darkgrey;
+    text-shadow: 0 0 10px black;
+ }
+ .charliepic{
+    width: 500px;
+    height: 300px;
+    margin-left: 15px;
+    border: solid black;
+    border-radius: 10px;
+    border-width: 10px;
+    margin-top: 15px;
+ }
+ h1{
+    font-size: xx-large;
+    border: solid black;
+    width: fit-content;
+    margin:auto;
+    margin-top: 10px;
+    padding: 0 10px;
+    background-color: rgb(66, 66, 66);
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+ }
+ h2{
+    border: solid black;
+    width: fit-content;
+    margin:auto;
+    margin-top: 10px;
+    padding: 0 10px;
+    background-color: rgb(77, 67, 67);
+    border-radius: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+ }
+ .maincontent > p{
+    color: white;
+    font-size: larger;
+    border: solid black;
+    margin: 10px 10px;
+    background-color: slategray;
+    font-family: cursive;
+    font-weight: bolder;
+    text-shadow: rgb(66, 66, 66);
+    
+ }
+ body{
+    background-color: rgb(65, 65, 65);
+ }
+ section{
+    margin: 0 auto;
+ }
