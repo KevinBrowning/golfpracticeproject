@@ -13,7 +13,9 @@ a{
     background-color: slategray;
     padding: 3px 20px;
     font-family: cursive;
-    font-size: large;
+    font-size: 20pt;
+    background-image: url(./istockphoto-1078879706-612x612.jpg);
+    border-radius: 10px;
 }
 .inactiveLink {
     pointer-events: none;
@@ -36,6 +38,7 @@ a{
     border-radius: 10px;
     background-color: darkgrey;
     text-shadow: 0 0 10px black;
+    background-image: url(./EC1711.jpg);
  }
  .charliepic{
     width: 500px;
@@ -56,6 +59,7 @@ a{
     background-color: rgb(66, 66, 66);
     font-family: cursive;
     color: rgb(255, 255, 255);
+    background-image: url(./depositphotos_384695892-stock-photo-concrete-black-dark-gray-background.jpg);
  }
  h2{
     border: solid black;
@@ -68,6 +72,7 @@ a{
     font-size: xx-large;
     font-family: cursive;
     color: rgb(255, 255, 255);
+    background-image: url(./depositphotos_384695892-stock-photo-concrete-black-dark-gray-background.jpg);
  }
  .maincontent > p{
     color: white;
@@ -78,9 +83,11 @@ a{
     font-family: cursive;
     font-weight: bolder;
     text-shadow: rgb(66, 66, 66);
+    background-image: url(./blue-smooth-stone-textured-background_53876-103944.jpg);
     
  }
  body{
+    background-image: url(./black-texture-pictures-jbdst9zhukx5qokc.jpg);
     background-color: rgb(65, 65, 65);
  }
  section{
