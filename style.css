@@ -17,8 +17,7 @@ a{
 button{
    background-image: url(istockphoto-1078879706-612x612.jpg);
    transition-duration: 0.3s;
-   border-radius: 10px;
-   
+   border-radius: 10px; 
 }
 button:hover{
    background-color: black;
