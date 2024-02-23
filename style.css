@@ -8,14 +8,22 @@ head{
     text-align: center;
 }
 a{
-    color: mintcream;
-    border: solid rgb(0, 0, 0);
-    background-color: slategray;
-    padding: 3px 20px;
-    font-family: cursive;
-    font-size: 20pt;
-    background-image: url(./istockphoto-1078879706-612x612.jpg);
-    border-radius: 10px;
+   color: mintcream;
+   padding: 3px 20px;
+   font-family: cursive;
+   font-size: 20pt;
+   padding: 0px;
+}
+button{
+   background-image: url(istockphoto-1078879706-612x612.jpg);
+   transition-duration: 0.3s;
+   border-radius: 10px;
+   
+}
+button:hover{
+   background-color: black;
+   color: black;
+   background-image: none;
 }
 .inactiveLink {
     pointer-events: none;
