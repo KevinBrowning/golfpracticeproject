@@ -72,6 +72,19 @@ button:hover{
    height: 325px;
    transition-duration: .5s;
  }
+ .adamgif{
+   width: 500px;
+   height: 300px;
+   margin-left: 15px;
+   border: solid black;
+   border-radius: 10px;
+   border-width: 10px;
+   margin-top: 15px;
+}
+.adamgif:hover{
+  transition-duration: .5s;
+  border-color: aquamarine;
+}
  h1{
     font-size: xx-large;
     border: solid black;
