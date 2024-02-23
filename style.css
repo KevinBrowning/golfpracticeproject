@@ -16,6 +16,7 @@ a{
 }
 a:hover{
    font-size: 40px;
+   transition-duration: .5s;
 }
 button{
    background-image: url(istockphoto-1078879706-612x612.jpg);
